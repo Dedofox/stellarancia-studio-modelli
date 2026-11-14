@@ -1,0 +1,37 @@
+{
+  "package": "@neslinesli93/qpdf-wasm",
+  "version": "0.3.1",
+  "sha256": "bdb7c4a6b55a096771c738c2410387a8cd55dccbcaa0cd4762337c88896e8728",
+  "components": [
+    {
+      "component": "qpdf",
+      "revision": "856d32c610334855d30e96d25eb5f9636fb62f08",
+      "source": "https://raw.githubusercontent.com/qpdf/qpdf/856d32c610334855d30e96d25eb5f9636fb62f08/LICENSE.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "component": "qpdf",
+      "revision": "856d32c610334855d30e96d25eb5f9636fb62f08",
+      "source": "https://raw.githubusercontent.com/qpdf/qpdf/856d32c610334855d30e96d25eb5f9636fb62f08/NOTICE.md",
+      "sha256": "d590610848429da713cef608a0183dbf3c7726d738c3be6fa5b36c507444b645"
+    },
+    {
+      "component": "zlib",
+      "revision": "21767c654d31d2dccdde4330529775c6c5fd5389",
+      "source": "https://raw.githubusercontent.com/madler/zlib/21767c654d31d2dccdde4330529775c6c5fd5389/README",
+      "sha256": "fc2c3368901700f0acdeb1d8afeaca5923296768ec6824ecdf627aac396001fd"
+    },
+    {
+      "component": "jpeg-turbo",
+      "revision": "7aa2a898c564041a24b09d0a6e780aaa632d08d3",
+      "source": "https://raw.githubusercontent.com/ImageMagick/jpeg-turbo/7aa2a898c564041a24b09d0a6e780aaa632d08d3/LICENSE.md",
+      "sha256": "7d8683a7f048e715e08b4cada8b7f0d9a6ab8afad88ed09c1143ef764ecbc0f2"
+    },
+    {
+      "component": "jpeg-turbo",
+      "revision": "7aa2a898c564041a24b09d0a6e780aaa632d08d3",
+      "source": "https://raw.githubusercontent.com/ImageMagick/jpeg-turbo/7aa2a898c564041a24b09d0a6e780aaa632d08d3/README.ijg",
+      "sha256": "4b7b9f8c03bb8d60270dfd12684e70ab21e4abfd27e73905cd1a7c4cae6f5cdb"
+    }
+  ]
+}

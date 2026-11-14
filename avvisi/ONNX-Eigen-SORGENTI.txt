@@ -1,0 +1,18 @@
+Traduzione offline: autorizzazione utente dell 8 novembre 2026 all inclusione di Eigen MPL-2.0 tramite ONNX Runtime Web.
+
+ONNX Runtime Web: 1.31.0-dev.20260914-8d85527a0, pacchetto upstream non modificato (hash in android/dipendenze.json).
+Codice sorgente ONNX della revisione:
+https://github.com/microsoft/onnxruntime/tree/8d85527a0
+Manifest delle dipendenze della revisione:
+https://raw.githubusercontent.com/microsoft/onnxruntime/8d85527a0/cmake/deps.txt
+
+Eigen: revisione 1d8b82b0740839c0de7f1242a3585e3390ff5f33, identificata dal manifest upstream sopra.
+Codice sorgente completo corrispondente, disponibile gratuitamente:
+https://github.com/eigen-mirror/eigen/tree/1d8b82b0740839c0de7f1242a3585e3390ff5f33
+Archivio sorgenti:
+https://github.com/eigen-mirror/eigen/archive/1d8b82b0740839c0de7f1242a3585e3390ff5f33/eigen-1d8b82b0740839c0de7f1242a3585e3390ff5f33.zip
+SHA-1 upstream: 05b19b49e6fbb91246be711d801160528c135e34
+
+Nessuna modifica locale ai file Eigen o ai binari upstream del runtime. La licenza MPL-2.0 integrale e gli avvisi upstream sono riprodotti in ONNX-ThirdPartyNotices.txt e nella sezione Informazioni/Licenze dell applicazione. Il codice sorgente Eigen resta disponibile secondo la MPL-2.0; la licenza proprietaria di Stellarancia Studio non limita i diritti concessi sui componenti terzi dalle rispettive licenze.
+
+Per ogni distribuzione conservare questi avvisi, il testo di licenza e l accesso ai sorgenti corrispondenti; eventuali future modifiche a file coperti da MPL richiedono il rispetto degli obblighi della MPL anche per quelle modifiche.

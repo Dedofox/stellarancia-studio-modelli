@@ -1,0 +1,4 @@
+OPUS-MT: modelli base Helsinki-NLP opus-mt-en-it e opus-mt-it-en, licenza Apache-2.0 dichiarata nelle schede allegate. Conversione ONNX e quantizzazione: Xenova e contributori. Revisioni e URL immutabili in android/modelli-traduzione.json.
+Transformers.js 4.3.2 (Apache-2.0); ONNX Runtime Web 1.31.0-dev.20260914-8d85527a0 (MIT e avvisi terzi allegati).
+Tesseract4Android 4.9.0 con Tesseract 5.5.1, Leptonica 1.85.0, libjpeg 9f e libpng 1.6.48. PDFBox Android 2.0.27.0 e Bouncy Castle 1.86.
+I template OOXML sono generati dal progetto con python-docx, python-pptx e openpyxl; non includono documenti degli utenti.

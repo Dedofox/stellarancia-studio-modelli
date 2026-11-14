@@ -1,0 +1,96 @@
+{
+  "source_lock": "https://raw.githubusercontent.com/naptha/tesseract.js/v6.0.1/package-lock.json",
+  "source_lock_sha256": "d820863ec2beed9552b355a982ff51ee5726bf1c2717ca00eaf4c7d540b24a10",
+  "dependencies": [
+    {
+      "name": "base64-js",
+      "version": "1.5.1",
+      "license": "MIT",
+      "url": "https://registry.npmjs.org/base64-js/-/base64-js-1.5.1.tgz",
+      "sha256": "b1b7a945b52685269083425216d6597e33d97bf21699d656e92fdb3eb5210a85",
+      "notices": [
+        "package/LICENSE"
+      ]
+    },
+    {
+      "name": "bmp-js",
+      "version": "0.1.0",
+      "license": "MIT",
+      "url": "https://registry.npmjs.org/bmp-js/-/bmp-js-0.1.0.tgz",
+      "sha256": "2fcd95c52df269b230ee622cbae00ed1d576b6bbc15af7042ce7ca7600efdd89",
+      "notices": [
+        "package/LICENSE"
+      ]
+    },
+    {
+      "name": "buffer",
+      "version": "6.0.3",
+      "license": "MIT",
+      "url": "https://registry.npmjs.org/buffer/-/buffer-6.0.3.tgz",
+      "sha256": "555b6f49224afcf6b2c5a9aea7cd34a7f443f395b10532bc5580022d57aa51f5",
+      "notices": [
+        "package/LICENSE"
+      ]
+    },
+    {
+      "name": "idb-keyval",
+      "version": "6.2.1",
+      "license": "Apache-2.0",
+      "url": "https://registry.npmjs.org/idb-keyval/-/idb-keyval-6.2.1.tgz",
+      "sha256": "f429459ea71232e2661f1620268f787e0ae57231f87d4c5d54d855cc6549ce30",
+      "notices": [
+        "package/LICENCE"
+      ]
+    },
+    {
+      "name": "ieee754",
+      "version": "1.2.1",
+      "license": "BSD-3-Clause",
+      "url": "https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz",
+      "sha256": "8ef14b9b397e339db89db97881fb714f49319d8f0eb1275901f45567b28f9dac",
+      "notices": [
+        "package/LICENSE"
+      ]
+    },
+    {
+      "name": "is-url",
+      "version": "1.2.4",
+      "license": "MIT",
+      "url": "https://registry.npmjs.org/is-url/-/is-url-1.2.4.tgz",
+      "sha256": "405c35f4f482de299df33c8d0169f454f77e92be69cd8a6521c64977bf2398f9",
+      "notices": [
+        "package/LICENSE-MIT"
+      ]
+    },
+    {
+      "name": "regenerator-runtime",
+      "version": "0.13.11",
+      "license": "MIT",
+      "url": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.13.11.tgz",
+      "sha256": "96a0a849ceb83d2cd717d775dc60ddb7c2384564f76a75d0d1e6849af04c2b8c",
+      "notices": [
+        "package/LICENSE"
+      ]
+    },
+    {
+      "name": "wasm-feature-detect",
+      "version": "1.8.0",
+      "license": "Apache-2.0",
+      "url": "https://registry.npmjs.org/wasm-feature-detect/-/wasm-feature-detect-1.8.0.tgz",
+      "sha256": "38f4cfa553680956123a8c0e5a586d54087e932d65a9c649953a0b1b83026bbc",
+      "notices": [
+        "package/LICENSE"
+      ]
+    },
+    {
+      "name": "zlibjs",
+      "version": "0.3.1",
+      "license": "MIT",
+      "url": "https://registry.npmjs.org/zlibjs/-/zlibjs-0.3.1.tgz",
+      "sha256": "f0f47a703ce0ec4f254c1ae5da122cb02cc8048088d8064eb793a1c60d78521b",
+      "notices": [
+        "package/LICENSE"
+      ]
+    }
+  ]
+}
